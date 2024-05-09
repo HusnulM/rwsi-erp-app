@@ -49,8 +49,8 @@
     <script src="<?= BASEURL; ?>/plugins/jquery/jquery-ui.min.js"></script>
     <link href="<?= BASEURL; ?>/css/ui-autocomplete.css" rel="stylesheet">
     <script>
-        var base_url = window.location.origin+'/aws-erp';
-        var _apiurl  = "https://awsi.co.id/webpr/aplikator/";
+        var base_url = window.location.origin+'/rwsi-erp-app';
+        var _apiurl  = "https://rwsi.co.id/webpr/aplikator/";
     </script>
 
     <!-- <style>
